@@ -48,4 +48,3 @@ Samuel Saisi
 LICENSE
 MIT License
 
-If you want, tell me your language used. I will rewrite it to match exactly.
